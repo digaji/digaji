@@ -1,11 +1,13 @@
-# Hello
+### Hello!
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=digaji&layout=compact&custom_title=waka+waka+wakatime)](https://github.com/anuraghazra/github-readme-stats)
+**Current:**
 
-<!--
-[![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digaji&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
--->
+- Analyst @ [Deloitte](https://www.deloitte.com/southeast-asia)
+- Community Organizer @ [AWS UG Jakarta](https://www.meetup.com/aws-ug-jakarta)
+- Community Organizer @ [GDG Cloud Jakarta](https://gdg.community.dev/gdg-cloud-jakarta)
 
-<!--
-**digaji/digaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**Previously:**
+
+- Android @ [Wonder Reader](https://github.com/Project-Lily/wonder-kotlin)
+- Web @ [NBS](https://nbs.co.id)
+- Web @ [Flash Coffee](https://flash-coffee.com)
